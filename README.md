@@ -6,6 +6,7 @@ I usually want to solve problems which written on this blog: https://leetcode.co
 Two Sum -Easy
 ### String: 
 Max Score (Daily question: 22.12.2023) -Easy \
-Path Crossing (Daily question: 23.12.2023) -Easy 
+Path Crossing (Daily question: 23.12.2023) -Easy \
+Minimum Changes To Make Alternating Binary String -Easy \
 
 
